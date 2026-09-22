@@ -1,17 +1,17 @@
 /*
-====================
-Crear BD y esquemas
-====================
-Proposito Script:
-El codigo crea una nueva base de datos llamada "DataWarehouse" despues de checkear si ya existe.
-Si ya existe, se borra y recrea
-Por ultimo sae crean los tres esquemas de la base de datos "bronze" "silver" "gold".
+Create Database and Schemas
+=====================
+Script Purpose:
+The code creates a new database called "DataWarehouse" after checking if it already exists.
+
+If it already exists, it is deleted and recreated.
+Finally, the three database schemas "bronze," "silver," and "gold" are created.
 */
 
 USE master;
 GO
 
---Borrar y recrear la base de datos "DataWarehouse" asegurandose hipoteticamente que nadie la estuviera usando
+--Delete and recreate the "DataWarehouse" database, hypothetically ensuring that no one was using it.
 IF EXISTS (SELECT 1 FROM sys.databases WHERE name = 'DataWarehouse')
 BEGIN 
 	ALTER DATABASE DataWarehouse SET SINGLE_USER ROLLBACK IMMEDIATE;
@@ -19,13 +19,13 @@ BEGIN
 END;
 GO
 
---Crear la base de datos
+--Create the database
 CREATE DATABASE DataWarehouse;
 GO
 
 USE DataWarehouse;
 
---Crear los esquemas bronze-silver-gold
+--Create the bronze-silver-gold scehmas
 CREATE SCHEMA bronze;
 GO
 
