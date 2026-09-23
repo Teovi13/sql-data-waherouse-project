@@ -14,7 +14,7 @@ end — clone it, run six scripts in order, and query a working star schema.
 
 ## Architecture
 
-![Data Architecture](docs/data_architecture.png)
+![data architecture](docs/data_architecture.png)
 
 The project follows the **Medallion Architecture** pattern, with three
 layers that progressively refine the data:
