@@ -1,0 +1,78 @@
+cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create_date
+9,AW10009,Joseph, Harris  ,M,F,2022-04-06
+34,AW10034,Jessica,Sanchez,S,F,2022-11-01
+59,AW10059,Robert,Martinez,Married,F,2022-01-05
+27,AW10027,John, Harris  ,Single,m,2024-03-01
+24,AW10024,Elizabeth,Lopez,Married,,2018-01-03
+58,AW10058,Kenneth,Johnson,M,m,2019-06-07
+18,AW10018,  Jennifer , Harris  ,Single,M,2022-09-26
+9,AW10009,Joseph, Harris  ,M,F,2021-06-21
+26,AW10026,Patricia,Davis,S,n/a,2023-06-14
+4,AW10004,Mark,Davis,Married,F,2019-10-16
+69,AW10069,Andrew,Brown,s,F,2022-11-22
+53,AW10053,Thomas,Brown,M,f,2021-02-28
+66,AW10066,Matthew,Lee,Married,,2021-09-18
+12,AW10012,Kenneth,White,s,n/a,2024-03-31
+70,AW10070,James,Taylor,Single,n/a,2020-03-18
+5,AW10005,Margaret,Hernandez,Married,f,2019-02-23
+50,AW10050,  Andrew ,Rodriguez,S,M,2022-02-22
+43,AW10043,Patricia, White  ,m,,2023-06-11
+56,AW10056,  Sarah ,Johnson,Single,f,2019-10-24
+35,AW10035,Matthew,Wilson,S,n/a,2019-02-08
+7,AW10007,  Sandra ,Moore,S,,2021-04-15
+45,AW10045,John,Perez,,M,2024-06-29
+57,AW10057,Paul,Moore,S,F,2019-09-03
+67,AW10067,Mary,Brown,,f,2018-06-06
+36,AW10036,Patricia,Gonzalez,S,M,2020-02-24
+32,AW10032,Robert,Ramirez,s,n/a,2023-06-12
+56,AW10056,  Sarah ,Johnson,Single,f,2019-04-24
+62,AW10062,Mark,Smith,Married,m,2020-10-13
+64,AW10064,Joseph,Miller,s,M,2020-07-02
+60,AW10060,Susan, Perez  ,Married,,2022-07-23
+8,AW10008,Michelle,Lewis,Single,F,2018-07-07
+3,AW10003,  Andrew ,Martin,Single,n/a,2024-02-11
+2,AW10002,Kenneth, Williams  ,S,M,2020-08-10
+10,AW10010,Sarah,Anderson,s,f,2020-05-08
+13,AW10013,Joseph,Perez,S,M,2018-05-12
+15,AW10015,Susan,Lee,Single,m,2019-08-09
+20,AW10020,Emily,Ramirez,S,n/a,2024-01-09
+16,AW10016,Thomas,Jones,s,n/a,2024-07-22
+46,AW10046,Joshua,Johnson,,,2023-11-12
+22,AW10022,James,White,,M,2023-09-11
+40,AW10040,Steven,Miller,M,m,2018-01-09
+41,AW10041,Anthony,Rodriguez,s,m,2024-03-26
+47,AW10047,Daniel,Robinson,s,M,2020-12-23
+61,AW10061,Michelle,White,Married,M,2019-12-27
+19,AW10019,Joshua,Williams,m,,2020-10-26
+6,AW10006,  Jennifer ,Gonzalez,,f,2018-06-27
+43,AW10043,Patricia, White  ,m,,2023-12-16
+11,AW10011,Sarah,Thompson,,n/a,2019-12-02
+48,AW10048,Betty,Jones,s,F,2018-02-08
+31,AW10031,  Donna ,Davis,S,M,2018-10-04
+33,AW10033,  Susan ,Moore,,,2023-04-21
+63,AW10063,Sarah, Garcia  ,Married,F,2023-04-12
+44,AW10044,David, Johnson  ,M,F,2024-09-03
+55,AW10055,Ashley,Rodriguez,S,n/a,2022-10-01
+29,AW10029,Karen,Gonzalez,m,,2023-01-24
+30,AW10030,Linda,Davis,,,2020-07-31
+21,AW10021,Sarah, Harris  ,m,M,2023-02-02
+,AW99999,Ghost,Row,S,M,2020-01-01
+65,AW10065,Mary,Perez,Married,F,2021-02-17
+41,AW10041,Anthony,Rodriguez,s,m,2023-03-21
+51,AW10051,Charles,Garcia,s,,2023-12-07
+28,AW10028,David,Rodriguez,M,,2020-04-03
+14,AW10014,Daniel,Gonzalez,,n/a,2021-07-12
+37,AW10037,Richard,Moore,s,m,2020-10-20
+68,AW10068,Michael,Martin,s,m,2024-10-19
+1,AW10001,Linda,Smith,M,n/a,2019-02-24
+16,AW10016,Thomas,Jones,s,n/a,2023-11-26
+39,AW10039,James,Williams,M,m,2023-06-13
+23,AW10023,Michael,Ramirez,,,2020-03-25
+49,AW10049,Sandra,Martin,S,,2020-05-23
+54,AW10054,Joshua,Miller,Single,f,2023-09-02
+25,AW10025,Joshua, Hernandez  ,s,f,2020-09-07
+17,AW10017,Margaret,Lewis,M,,2023-07-15
+47,AW10047,Daniel,Robinson,s,M,2019-11-21
+38,AW10038,John,Anderson,S,F,2024-01-24
+52,AW10052,James,Perez,Single,F,2019-07-05
+42,AW10042,Ashley,Jones,S,,2024-01-30
