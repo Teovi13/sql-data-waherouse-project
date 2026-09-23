@@ -1,0 +1,6 @@
+id,cat,subcat,maintenance
+BI_CO,Bikes,Comfort Bikes, No
+BI_RO,Bikes,Road Bikes,yes
+BI_MT,Bikes,Mountain Bikes, Yes 
+AC_HE,Accessories,Helmets,yes
+CO_SA,Components,Saddles,No
