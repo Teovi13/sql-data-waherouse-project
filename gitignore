@@ -1,32 +1,10 @@
-# Datasets (raw data files - too large / not meant for version control)
-datasets/
-*.csv
-*.zip
-
-# SSMS / SQL Server temp & backup files
-*.bak
-*.ldf
-*.mdf
-*.trn
-
-# VS Code
-.vscode/
-*.code-workspace
-
-# OS files
-.DS_Store
+# OS-generated files
 Thumbs.db
+.DS_Store
 
-# Logs
-*.log
+# SSMS / Visual Studio local config
+*.suo
+.vs/
 
-# Python (if used for ETL scripts, notebooks, etc.)
-__pycache__/
-*.pyc
-.venv/
-venv/
-env/
-
-# Environment / secrets
-.env
-*.env
+# SQL Server local backups
+*.bak
