@@ -80,7 +80,7 @@ BEGIN
 
 		SET @start_time = GETDATE();
 		PRINT '-----------------------------------';
-		PRINT 'Loading tables ERP';
+		PRINT 'Loading ERP tables';
 		PRINT '-----------------------------------';
 
 		PRINT '>> Truncating table: bronze.erp_cust_az12';
